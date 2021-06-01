@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.cl.mvplibrary">
+
+    <application>
+        <activity android:name=".mvp.MvpFragment"></activity>
+        <activity android:name=".mvp.MvpActivity" />
+        <activity android:name=".base.BaseFragment" />
+        <activity android:name=".base.BaseActivity" />
+    </application>
+
+</manifest>
